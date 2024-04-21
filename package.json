@@ -9,6 +9,7 @@
   "author": "nodekurajin",
   "license": "ISC",
   "dependencies": {
+    "@nodekurajin/jatimulyoteteh": "^1.1.6",
     "aingtea": "^1.0.6",
     "anakketiga": "^1.0.0",
     "anaklanangtea": "^1.0.0",
